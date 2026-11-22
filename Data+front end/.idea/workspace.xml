@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04863e68-649a-4867-bb8b-75c21c880c82" name="Changes" comment="Merge remote-tracking branch 'github/main'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../2025" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../2025" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../2025" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fadinrsultan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fadinrsultan/PyCharmMiscProject.git&quot;,
+    &quot;accountId&quot;: &quot;213f3219-48be-453e-9113-381bb4241d1b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yIqFjPSA6lo7ZksVfQ21a5hv6J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Doctests in lca_taxonomy.executor": "Run",
+    "Python.16.7.executor": "Run",
+    "Python.2 methods.executor": "Run",
+    "Python.20 tags v1.executor": "Run",
+    "Python.20_tags.executor": "Run",
+    "Python.20tags_Hybrid.executor": "Run",
+    "Python.3D ALL.executor": "Run",
+    "Python.3D.executor": "Run",
+    "Python.Alternative v02.executor": "Run",
+    "Python.Alternatives.executor": "Run",
+    "Python.DUal heatmap.executor": "Run",
+    "Python.Heat map 2d.executor": "Run",
+    "Python.Hybrid .executor": "Run",
+    "Python.Hybrid with syn.executor": "Run",
+    "Python.Ploting the tree.executor": "Run",
+    "Python.TABLE SIMPLE.executor": "Run",
+    "Python.alt_v2.executor": "Run",
+    "Python.alt_v3.executor": "Run",
+    "Python.alternative_tags_2.executor": "Run",
+    "Python.alternatives.v.01.executor": "Run",
+    "Python.alternatives_tags.executor": "Run",
+    "Python.alternatives_tags_19.08.executor": "Run",
+    "Python.apple_tags.executor": "Run",
+    "Python.box_visualisation.executor": "Run",
+    "Python.calender timeline.executor": "Run",
+    "Python.check tag position.executor": "Run",
+    "Python.check.executor": "Run",
+    "Python.check_tags_company.executor": "Run",
+    "Python.check_test_v01.executor": "Run",
+    "Python.cosine_similarity_selection.executor": "Run",
+    "Python.count_number_of_tags_per_company.executor": "Run",
+    "Python.draw the path till the tag.executor": "Run",
+    "Python.drawing the tree.executor": "Run",
+    "Python.each year plot over 100 companies.executor": "Run",
+    "Python.final data extractor.executor": "Run",
+    "Python.find_tag_existence_which_trees.executor": "Run",
+    "Python.forest_trees.executor": "Run",
+    "Python.forest_visualisation.executor": "Run",
+    "Python.helper.executor": "Run",
+    "Python.histo.executor": "Run",
+    "Python.hybrid multi company.executor": "Run",
+    "Python.hybrid without syn.executor": "Run",
+    "Python.hybrid without syn_test.executor": "Run",
+    "Python.hybrid_sim.executor": "Run",
+    "Python.lca_taxonomy.executor": "Run",
+    "Python.main_starting point.executor": "Run",
+    "Python.method 2.executor": "Run",
+    "Python.method_2.executor": "Run",
+    "Python.network_vs_tags.executor": "Run",
+    "Python.number_of_tags_per_company.executor": "Run",
+    "Python.primary vs alternaitve.executor": "Run",
+    "Python.proximity_similarity.executor": "Run",
+    "Python.script.executor": "Run",
+    "Python.semantic-similarity.executor": "Run",
+    "Python.semantic_similarity.executor": "Run",
+    "Python.structural_similarity.executor": "Run",
+    "Python.table form simple.executor": "Run",
+    "Python.table form.executor": "Run",
+    "Python.tags network.executor": "Run",
+    "Python.tags per company v.01.executor": "Run",
+    "Python.tags.executor": "Run",
+    "Python.tags_list.executor": "Run",
+    "Python.taxonomy_loader.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_2.executor": "Run",
+    "Python.test_26-07.executor": "Run",
+    "Python.tree_test.executor": "Run",
+    "Python.tree_version.executor": "Run",
+    "Python.usd improvment.executor": "Run",
+    "Python.visualisation_data.executor": "Run",
+    "Python.visualisation_primary vs alternaitve_over 10 years.executor": "Run",
+    "Python.visualization_companies on x axis.executor": "Run",
+    "Python.visualization_final.executor": "Run",
+    "Python.visualization_final_version94.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/fadisultan/Desktop/FADI_SULTAN/Data+front end",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../2025/financial_data/Analysis" />
+      <recent name="$PROJECT_DIR$/../2025/financial_data/Alternative_research /financial_csv_last10 years" />
+      <recent name="$PROJECT_DIR$/../2025/financial_data/Alternative_research /visualisation/visualization_output" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../2025/financial_data/Alternative_research /financial_csv_10000y" />
+      <recent name="$PROJECT_DIR$/../2025/financial_data/Alternative_research " />
+      <recent name="$PROJECT_DIR$/financial_data/Alternative_research /visualisation" />
+      <recent name="$PROJECT_DIR$/financial_data/Analysis" />
+      <recent name="$PROJECT_DIR$/financial_data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04863e68-649a-4867-bb8b-75c21c880c82" name="Changes" comment="" />
+      <created>1749532333420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749532333420</updated>
+      <workItem from="1749532336885" duration="5194000" />
+      <workItem from="1750740972280" duration="11693000" />
+      <workItem from="1751345474193" duration="11076000" />
+      <workItem from="1751449831717" duration="920000" />
+      <workItem from="1752100451158" duration="7850000" />
+      <workItem from="1752397365872" duration="102000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1762558168034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762558168034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1762558560664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762558560664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1762559425905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762559425905</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1762559685275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762559685275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1762559770553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762559770553</updated>
+    </task>
+    <task id="LOCAL-00006" summary="last data version">
+      <option name="closed" value="true" />
+      <created>1763923418845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923418845</updated>
+    </task>
+    <task id="LOCAL-00007" summary="last data version">
+      <option name="closed" value="true" />
+      <created>1763923434072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923434072</updated>
+    </task>
+    <task id="LOCAL-00008" summary="last data version">
+      <option name="closed" value="true" />
+      <created>1763923447687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923447687</updated>
+    </task>
+    <task id="LOCAL-00009" summary="last data version">
+      <option name="closed" value="true" />
+      <created>1763923469867</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923469867</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/main'">
+      <option name="closed" value="true" />
+      <created>1763923482748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923482748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'github/main'">
+      <option name="closed" value="true" />
+      <created>1763923491944</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923491944</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="last data version" />
+    <MESSAGE value="Merge remote-tracking branch 'github/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/main'" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$20_tags.coverage" NAME="20_tags Coverage Results" MODIFIED="1750743311471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$Alternative_v02.coverage" NAME="Alternative v02 Coverage Results" MODIFIED="1751363243564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaap_tags/tags" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tags.coverage" NAME="tags Coverage Results" MODIFIED="1750742777739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$script.coverage" NAME="script Coverage Results" MODIFIED="1749533051984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$20_tags_v1.coverage" NAME="20 tags v1 Coverage Results" MODIFIED="1750743672654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tree_version.coverage" NAME="tree_version Coverage Results" MODIFIED="1752105207421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaap_tags" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$Alternatives.coverage" NAME="Alternatives Coverage Results" MODIFIED="1751360325987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$check.coverage" NAME="check Coverage Results" MODIFIED="1750744162126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaap_tags" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$histo.coverage" NAME="histo Coverage Results" MODIFIED="1751345887082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaap_tags/tags" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$alternatives_v_01.coverage" NAME="alternatives.v.01 Coverage Results" MODIFIED="1751358650904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
