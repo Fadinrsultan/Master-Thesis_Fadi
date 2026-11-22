@@ -1,0 +1,2 @@
+user_input,retrieved_contexts,response,reference,llm_context_precision_with_reference,context_recall,faithfulness,nv_response_groundedness,nv_accuracy,exact_match
+What was NVDA net income in 2023?,"['NVDA 2023 income statement: NetIncomeLoss = 29,760 (USD millions).', 'NVDA 2021: NetIncomeLoss = 9,752 (USD millions).', 'Some unrelated risk factors text.']","NVDA net income in 2023 was 29,760 million USD.","Net income in 2023 was 29,760 million USD.",0.9999999999,1.0,1.0,1.0,1.0,0.0

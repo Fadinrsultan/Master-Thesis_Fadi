@@ -1,0 +1,9 @@
+idx,question,reference,pred_answer,item_type,label_original,Faithfulness,ContextPrecision,ContextRecall,ResponseGroundedness,AnswerAccuracy,ExactMatch
+0,What was AMGN's PaymentsToAcquirePropertyPlantAndEquipment in fiscal year 2020?,738000000,738000000.0,,,1.0,0.9999999999,1.0,0.5,1.0,0.0
+1,How much LongTermDebt did AMGN report in fiscal year 2016?,31429000000,31429000000.0,,,1.0,0.9999999999,1.0,0.5,1.0,0.0
+2,In which fiscal year did AMGN report EarningsPerShareBasic of 12.18?,2024,2024,,,1.0,0.9999999999,1.0,0.0,1.0,1.0
+3,How many fiscal years from 2016 to 2024 did AMGN's IncomeTaxExpenseBenefit exceed 1039000000?,4,Unknown,,,0.0,0.9999999999,1.0,0.0,0.0,0.0
+5,By how much did AMGN's EarningsPerShareDiluted change between fiscal year 2023 and fiscal year 2019?,-7.59,Unknown,,,0.0,0.9999999999,0.0,0.0,0.0,0.0
+6,What was the average EarningsPerShareBasic for AMGN across fiscal years 2021 to 2023?,11.9,12.53,,,0.0,0.9999999999,1.0,0.0,0.25,0.0
+7,What was AMGN's gross margin (GrossProfit divided by Revenues) in fiscal year 2018?,0.182811,17.7%,,,0.0,0.9999999999,1.0,0.0,0.0,0.0
+8,"What was the monotonic trend of AMGN's Revenues from fiscal year 2016 to fiscal year 2024 (increasing, decreasing, non-decreasing, non-increasing, or not monotonic)?",not monotonic,Increasing,,,0.0,0.9999999999,1.0,0.0,0.0,0.0

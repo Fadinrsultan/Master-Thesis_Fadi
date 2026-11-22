@@ -1,0 +1,2 @@
+idx,question,reference,pred_answer,item_type,label_original,Faithfulness,ContextPrecision,ContextRecall,ResponseGroundedness,AnswerAccuracy,ExactMatch
+0,What was AMGN's PaymentsToAcquirePropertyPlantAndEquipment in fiscal year 2020?,738000000,738000000.0,,,1.0,0.9999999999,1.0,0.5,1.0,0.0
